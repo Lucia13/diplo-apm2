@@ -1,0 +1,31 @@
+{
+  "name": "lab51",
+  "version": "1.0.0",
+  "description": "gulp mimificar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lucia13/diplo-apm2.git"
+  },
+  "keywords": [
+    "gulp",
+    "mimificar"
+  ],
+  "author": "lucia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lucia13/diplo-apm2/issues"
+  },
+  "homepage": "https://github.com/Lucia13/diplo-apm2",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-concat": "^2.5.2",
+    "gulp-concat-css": "^2.2.0",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.2.0"
+  }
+}
